@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Bold.otf",
+      "sha1": "0868a6cd6233fccc0876766741b960b9e095033a"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-BoldItalic.otf",
+      "sha1": "39d4437225d04cc2b3d25adba92a9c6cebe94420"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Heavy.otf",
+      "sha1": "4d550400ebc68509a13a8defc907ce67750b9e89"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-HeavyItalic.otf",
+      "sha1": "5d7630a9231ec626836397cc9fdbf002f38911ce"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Light.otf",
+      "sha1": "7332ac047bba21b36f24c7cf1f759a0683541f22"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-LightItalic.otf",
+      "sha1": "2e806ae9b3db416b69a7e92b3820711090351245"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Medium.otf",
+      "sha1": "6fd486a0b8e572bf8be8490e3942da89a87e3f2a"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-MediumItalic.otf",
+      "sha1": "a24cf9f123dc613524c8ec7f1c89e4f0ce923d91"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Regular.otf",
+      "sha1": "d9baef8ef26acf57fb49b0ecf692a099064e262e"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-RegularItalic.otf",
+      "sha1": "c831348e57a7012df1ea506ce329ca1f77b8211c"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBold.otf",
+      "sha1": "f8a2e97c5117cb4a9d04aefc8400008d71ed7fc7"
+    },
+    {
+      "path": "app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBoldItalic.otf",
+      "sha1": "e948fb2a29f8ea76c220c62060381834cf4d2aa6"
+    }
+  ]
+}
