@@ -6,19 +6,11 @@
  * @flow strict-local
  */
 
- import React from 'react';
- import {
-   Text,
- } from 'react-native';
- import {CLIENT_ID} from "@env"
-
+import React from 'react';
+import Home from './views/Home';
 
 const App = () => {
-   return (
-   <Text style={{fontFamily: 'RoobertTRIAL-Medium', marginTop: 450}}>{CLIENT_ID} DAVID</Text>
-   );
- };
- 
- 
- export default App;
- 
+  return <Home />;
+};
+
+export default App;

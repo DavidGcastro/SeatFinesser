@@ -7,12 +7,14 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint --fix --ext .js,.jsx .",
+    "build:ios": "react-native bundle --entry-file='index.js' --bundle-output='./ios/main.jsbundle' --dev=false --platform='ios'"
   },
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.0",
-    "react-native-dotenv": "^3.3.1"
+    "react-native-dotenv": "^3.3.1",
+    "react-native-geolocation-service": "^5.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
