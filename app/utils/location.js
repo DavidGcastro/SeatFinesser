@@ -21,7 +21,7 @@ const location = async ([latitude, longitude]) => {
   const endpoint = `${GOOGLE_MAPS_API_ENDPOINT}&latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}`;
   let locationData = await fetch(endpoint);
   let {results} = await locationData.json();
-  return results.length && results[0].address_components[0].long_name;
+  return results.length && results[0].formatted_address.replace(', USA', '');
 };
 
 const getCoords = async () => {

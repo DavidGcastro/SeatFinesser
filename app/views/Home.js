@@ -1,16 +1,8 @@
 import React, {useState, useEffect} from 'react';
-import {Text} from 'react-native';
-import getLocation from '../utils/location';
+import {HomeHeader} from '../components/home';
 
 const Home = () => {
-  const [location, setLocation] = useState('');
-  useEffect(() => {
-    const location = async () => {
-      setLocation(await getLocation());
-    };
-    location();
-  }, []);
-  return <Text>{location}</Text>;
+  return <HomeHeader />;
 };
 
 export default Home;

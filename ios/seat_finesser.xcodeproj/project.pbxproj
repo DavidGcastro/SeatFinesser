@@ -8,24 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* seat_finesserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* seat_finesserTests.m */; };
+		094C01B7A4CF4465ACB56F88 /* RoobertTRIAL-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4A7F2577933C4CD18639775A /* RoobertTRIAL-SemiBoldItalic.otf */; };
+		0AEED8CDE2764DA1811A1F01 /* RoobertTRIAL-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC517B59E9B4424E81D05399 /* RoobertTRIAL-Light.otf */; };
+		0BFEA3B8BB9E4F6AB0EAE7FB /* RoobertTRIAL-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 614DC34F0C2B46DBAF067515 /* RoobertTRIAL-Regular.otf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-seat_finesser.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-seat_finesser.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-seat_finesser-seat_finesserTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-seat_finesser-seat_finesserTests.a */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		3B05A052BE2E4FE7B7B4E80D /* RoobertTRIAL-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A133B00D98D84A828F5A2B12 /* RoobertTRIAL-Bold.otf */; };
-		F2D28840464F40A7AA86925D /* RoobertTRIAL-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C1BBA07962E94F3799D137EC /* RoobertTRIAL-BoldItalic.otf */; };
-		DE8AE69D513F47FB8E81B88A /* RoobertTRIAL-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = F06EF3FBA7854E7A96B0B132 /* RoobertTRIAL-Heavy.otf */; };
-		8346FA99B2904B409A6BDA1A /* RoobertTRIAL-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E71553322AA64071BCC62E2D /* RoobertTRIAL-HeavyItalic.otf */; };
-		0AEED8CDE2764DA1811A1F01 /* RoobertTRIAL-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC517B59E9B4424E81D05399 /* RoobertTRIAL-Light.otf */; };
-		C63D973C77A04C2B920B011F /* RoobertTRIAL-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E7149A2B0E8A4B73B55E6047 /* RoobertTRIAL-LightItalic.otf */; };
 		1EBCD5814F4542CAA013B448 /* RoobertTRIAL-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 498DABBC12D94E0BB7F9C1FC /* RoobertTRIAL-Medium.otf */; };
 		3990AB34434C4766B8AE6993 /* RoobertTRIAL-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D90A69A8612D4C32A45CB2F3 /* RoobertTRIAL-MediumItalic.otf */; };
-		0BFEA3B8BB9E4F6AB0EAE7FB /* RoobertTRIAL-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 614DC34F0C2B46DBAF067515 /* RoobertTRIAL-Regular.otf */; };
+		3B05A052BE2E4FE7B7B4E80D /* RoobertTRIAL-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A133B00D98D84A828F5A2B12 /* RoobertTRIAL-Bold.otf */; };
+		7699B88040F8A987B510C191 /* libPods-seat_finesser-seat_finesserTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-seat_finesser-seat_finesserTests.a */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8346FA99B2904B409A6BDA1A /* RoobertTRIAL-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E71553322AA64071BCC62E2D /* RoobertTRIAL-HeavyItalic.otf */; };
 		AF7B1B4415A048759959F725 /* RoobertTRIAL-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E61156B24BFB4AAB9136BDA2 /* RoobertTRIAL-RegularItalic.otf */; };
+		C63D973C77A04C2B920B011F /* RoobertTRIAL-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E7149A2B0E8A4B73B55E6047 /* RoobertTRIAL-LightItalic.otf */; };
+		DE8AE69D513F47FB8E81B88A /* RoobertTRIAL-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = F06EF3FBA7854E7A96B0B132 /* RoobertTRIAL-Heavy.otf */; };
 		EC7E878DF8724956935ECB1C /* RoobertTRIAL-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 91BEEA2903FF44F78BE37798 /* RoobertTRIAL-SemiBold.otf */; };
-		094C01B7A4CF4465ACB56F88 /* RoobertTRIAL-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4A7F2577933C4CD18639775A /* RoobertTRIAL-SemiBoldItalic.otf */; };
+		F2D28840464F40A7AA86925D /* RoobertTRIAL-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C1BBA07962E94F3799D137EC /* RoobertTRIAL-BoldItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,24 +50,24 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = seat_finesser/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-seat_finesser-seat_finesserTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-seat_finesser-seat_finesserTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-seat_finesser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seat_finesser.debug.xcconfig"; path = "Target Support Files/Pods-seat_finesser/Pods-seat_finesser.debug.xcconfig"; sourceTree = "<group>"; };
+		498DABBC12D94E0BB7F9C1FC /* RoobertTRIAL-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Medium.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Medium.otf"; sourceTree = "<group>"; };
+		4A7F2577933C4CD18639775A /* RoobertTRIAL-SemiBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-SemiBoldItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBoldItalic.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-seat_finesser.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seat_finesser.release.xcconfig"; path = "Target Support Files/Pods-seat_finesser/Pods-seat_finesser.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-seat_finesser-seat_finesserTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seat_finesser-seat_finesserTests.debug.xcconfig"; path = "Target Support Files/Pods-seat_finesser-seat_finesserTests/Pods-seat_finesser-seat_finesserTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-seat_finesser.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-seat_finesser.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		614DC34F0C2B46DBAF067515 /* RoobertTRIAL-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Regular.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Regular.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = seat_finesser/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-seat_finesser-seat_finesserTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seat_finesser-seat_finesserTests.release.xcconfig"; path = "Target Support Files/Pods-seat_finesser-seat_finesserTests/Pods-seat_finesser-seat_finesserTests.release.xcconfig"; sourceTree = "<group>"; };
+		91BEEA2903FF44F78BE37798 /* RoobertTRIAL-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-SemiBold.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBold.otf"; sourceTree = "<group>"; };
+		A133B00D98D84A828F5A2B12 /* RoobertTRIAL-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Bold.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Bold.otf"; sourceTree = "<group>"; };
+		C1BBA07962E94F3799D137EC /* RoobertTRIAL-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-BoldItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-BoldItalic.otf"; sourceTree = "<group>"; };
+		CC517B59E9B4424E81D05399 /* RoobertTRIAL-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Light.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Light.otf"; sourceTree = "<group>"; };
+		D90A69A8612D4C32A45CB2F3 /* RoobertTRIAL-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-MediumItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-MediumItalic.otf"; sourceTree = "<group>"; };
+		E61156B24BFB4AAB9136BDA2 /* RoobertTRIAL-RegularItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-RegularItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-RegularItalic.otf"; sourceTree = "<group>"; };
+		E7149A2B0E8A4B73B55E6047 /* RoobertTRIAL-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-LightItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-LightItalic.otf"; sourceTree = "<group>"; };
+		E71553322AA64071BCC62E2D /* RoobertTRIAL-HeavyItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-HeavyItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-HeavyItalic.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		A133B00D98D84A828F5A2B12 /* RoobertTRIAL-Bold.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-Bold.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C1BBA07962E94F3799D137EC /* RoobertTRIAL-BoldItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-BoldItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F06EF3FBA7854E7A96B0B132 /* RoobertTRIAL-Heavy.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-Heavy.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E71553322AA64071BCC62E2D /* RoobertTRIAL-HeavyItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-HeavyItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-HeavyItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CC517B59E9B4424E81D05399 /* RoobertTRIAL-Light.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-Light.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E7149A2B0E8A4B73B55E6047 /* RoobertTRIAL-LightItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-LightItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-LightItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		498DABBC12D94E0BB7F9C1FC /* RoobertTRIAL-Medium.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-Medium.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D90A69A8612D4C32A45CB2F3 /* RoobertTRIAL-MediumItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-MediumItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-MediumItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		614DC34F0C2B46DBAF067515 /* RoobertTRIAL-Regular.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-Regular.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E61156B24BFB4AAB9136BDA2 /* RoobertTRIAL-RegularItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-RegularItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-RegularItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		91BEEA2903FF44F78BE37798 /* RoobertTRIAL-SemiBold.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-SemiBold.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4A7F2577933C4CD18639775A /* RoobertTRIAL-SemiBoldItalic.otf */ = {isa = PBXFileReference; name = "RoobertTRIAL-SemiBoldItalic.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-SemiBoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F06EF3FBA7854E7A96B0B132 /* RoobertTRIAL-Heavy.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Heavy.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Heavy.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,19 +162,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3B4392A12AC88292D35C810B /* Pods-seat_finesser.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-seat_finesser.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-seat_finesser-seat_finesserTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-seat_finesser-seat_finesserTests.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		90F04E030E1E4A70AFC2280D /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				A133B00D98D84A828F5A2B12 /* RoobertTRIAL-Bold.otf */,
 				C1BBA07962E94F3799D137EC /* RoobertTRIAL-BoldItalic.otf */,
@@ -190,8 +179,19 @@
 				4A7F2577933C4CD18639775A /* RoobertTRIAL-SemiBoldItalic.otf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-seat_finesser.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-seat_finesser.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-seat_finesser-seat_finesserTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-seat_finesser-seat_finesserTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
