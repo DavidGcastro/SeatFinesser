@@ -46,13 +46,18 @@ const Location = () => {
       const endpoint = `${GOOGLE_MAPS_API_ENDPOINT}&latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}`;
       let locationData = await fetch(endpoint);
       let {results} = await locationData.json();
-      let location = results.length && results[0].address_components[0].long_name
-      location && setLocation(location)
+      let location =
+        results.length && results[0].address_components[0].long_name;
+      location && setLocation(location);
     };
     getLocation().catch(err => console.error(err));
   }, [coords]);
 
-  return <Text style={{fontFamily: 'RoobertTrial-Bold', fontSize: 20, margin: 30}}>{location}</Text>;
+  return (
+    <Text style={{fontFamily: 'RoobertTrial-Bold', fontSize: 20, margin: 30}}>
+      {location}
+    </Text>
+  );
 };
 
 export default Location;

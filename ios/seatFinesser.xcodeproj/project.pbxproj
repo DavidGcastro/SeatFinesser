@@ -26,7 +26,6 @@
 		B7C4FE646EFA4000B81A2562 /* RoobertTRIAL-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = F70565D7E0084896AE3782C3 /* RoobertTRIAL-Heavy.otf */; };
 		BB849096F3714A50986DFE83 /* RoobertTRIAL-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 64695740EBD24D9380DEC879 /* RoobertTRIAL-Bold.otf */; };
 		EDC64292ED6F495397A9058C /* RoobertTRIAL-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FBBBFD523D1D48929079C37E /* RoobertTRIAL-Medium.otf */; };
-		FE7B193E28D2D1F2004D6233 /* geo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7B193D28D2D1F2004D6233 /* geo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +69,6 @@
 		F70565D7E0084896AE3782C3 /* RoobertTRIAL-Heavy.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Heavy.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Heavy.otf"; sourceTree = "<group>"; };
 		FBBBFD523D1D48929079C37E /* RoobertTRIAL-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RoobertTRIAL-Medium.otf"; path = "../app/assets/fonts/DP_roobert_TRIAL/RoobertTRIAL-Medium.otf"; sourceTree = "<group>"; };
 		FE7B193C28D2D1F2004D6233 /* seatFinesser-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "seatFinesser-Bridging-Header.h"; sourceTree = "<group>"; };
-		FE7B193D28D2D1F2004D6233 /* geo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = geo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,7 +153,6 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				FE7B193D28D2D1F2004D6233 /* geo.swift */,
 				FE7B193C28D2D1F2004D6233 /* seatFinesser-Bridging-Header.h */,
 			);
 			name = Libraries;
@@ -474,7 +471,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
-				FE7B193E28D2D1F2004D6233 /* geo.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -494,7 +490,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-seatFinesser-seatFinesserTests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -522,7 +517,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-seatFinesser-seatFinesserTests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = seatFinesserTests/Info.plist;
@@ -550,6 +544,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VYK2NP93SY;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = seatFinesser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -577,6 +572,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VYK2NP93SY;
 				INFOPLIST_FILE = seatFinesser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
