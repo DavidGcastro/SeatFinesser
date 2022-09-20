@@ -11,7 +11,7 @@ const Location = ({style}) => {
       try {
         setLocation(await getLocation());
       } catch (err) {
-        setLocation(DEFAULT_CITY)
+        setLocation(DEFAULT_CITY);
         console.error(err);
       }
     };
