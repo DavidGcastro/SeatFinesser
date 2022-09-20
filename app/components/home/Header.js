@@ -1,3 +1,4 @@
+import React from 'react';
 import Location from '../Location';
 import {View, Text} from 'react-native';
 import textStyle from '../../styles/text';
