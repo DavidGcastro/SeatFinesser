@@ -1,0 +1,4 @@
+import {SEAT_GEEK_ENDPOINT, CLIENT_ID, API_SECRET} from '@env';
+const AUTH = `client_id=${CLIENT_ID}&CLIENT_SECRET=${API_SECRET}`;
+const EVENTS_ENDPOINT = `${SEAT_GEEK_ENDPOINT}/events?${AUTH}`;
+const PERFORMERS_ENDPOINT = `${SEAT_GEEK_ENDPOINT}/performers${AUTH}`;

@@ -18,8 +18,7 @@ const getCurrentPositionAsync = options =>
 const getAuthorization = async () => await requestAuthorization('whenInUse');
 
 const location = async ([latitude, longitude]) => {
-  const endpoint = `${GOOGLE_MAPS_API_ENDPOINT}&latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}`;
-  let locationData = await fetch(endpoint);
+  let locationData = await fetch( `${GOOGLE_MAPS_API_ENDPOINT}&latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}`);
   let {results} = await locationData.json();
   return results.length && results[0].formatted_address.replace(', USA', '');
 };

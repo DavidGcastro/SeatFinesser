@@ -7,17 +7,31 @@
  */
 
 import React from 'react';
-import {SafeAreaView, View} from 'react-native';
-import globalStyle from './styles/global';
-import Home from './views/Home';
+import {NavigationContainer} from '@react-navigation/native';
+import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
+import {Home, Tickets, Search, Profile, Favorites} from './views'
+const {Navigator, Screen} = createBottomTabNavigator();
+const MyTheme = {
+  colors: {
+    background: 'white'
+  },
+};
 
 const App = () => {
   return (
-    <SafeAreaView>
-      <View style={globalStyle}>
-        <Home />
-      </View>
-    </SafeAreaView>
+    <SafeAreaProvider>
+      <NavigationContainer theme={MyTheme}>
+        <Navigator screenOptions={{headerShown: false}}
+        >
+          <Screen name="Home" component={Home} />
+          <Screen name='Search' component={Search}/>
+          <Screen name="Tickets" component={Tickets} />
+          <Screen name='Favorites' component={Favorites}/>
+          <Screen name='Profile' component={Profile}/>
+        </Navigator>
+      </NavigationContainer>
+    </SafeAreaProvider>
   );
 };
 
